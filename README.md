@@ -1,1 +1,1 @@
-# one-max
+# one-max problem
